@@ -184,7 +184,7 @@ overflow me : aaaabaaacaaadaaaeaaafaaagaaahaaaiaaajaaakaaalaaamaaanaaaoaaapaaaqa
 
 ```
 
-![alt text](cyclic.png)
+![alt text](image/cyclic.png)
 
 
 now use x/x $ebp+0x8 to examine hex value of ebp+0x8, notice that now ebp+0x8 not 0xdeadbeef anymore but 0x6161616e
